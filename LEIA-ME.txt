@@ -1,0 +1,20 @@
+LIDER COLOR — primeira versão do catálogo online
+
+FICHEIROS
+- index.html: página do site, com catálogo de demonstração e pedidos por WhatsApp.
+- logo-lider-color.jpg: logótipo fornecido.
+
+IMPORTANTE
+Os produtos são exemplos de categorias e os preços estão como “Preço sob consulta”. Não publicar preços nem disponibilidade sem os confirmar.
+
+COMO PERSONALIZAR
+1. Abrir index.html num editor de texto.
+2. Procurar a secção const products=[ ... ] para alterar nomes, marcas, categorias, descrições, preços e símbolos.
+3. O WhatsApp está configurado para 351932064657.
+4. A morada completa e horário ainda não foram incluídos porque não foram fornecidos.
+
+PUBLICAÇÃO GRATUITA
+Esta é uma página estática. Pode ser publicada gratuitamente em serviços como GitHub Pages ou Netlify, criando uma conta e carregando os ficheiros. O endereço gratuito será um subdomínio do serviço. Um domínio próprio normalmente tem custo.
+
+ESTADO
+Protótipo inicial; ainda não está publicado na Internet. Não tem pagamentos online nem gestão automática de stock.
